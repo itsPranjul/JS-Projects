@@ -1,0 +1,19 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(128, 122, 122);
+}
+
+button {
+    background-color: black;
+    color: #fff;
+    font-family: sans-serif;
+    height: 50px;
+    width: 50px;
+    margin-top: 14px;
+}

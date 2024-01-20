@@ -1,0 +1,31 @@
+.wrapper{
+    text-align: center;
+    align-items: center;
+
+}
+
+body{
+    background-color: grey;
+}
+label{
+    font-family: sans-serif;
+}
+
+input{
+    border-radius: 5px;
+}
+
+button{
+    left: 25px;
+    font-size: medium;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    position: relative;
+}
+span{
+    position: absolute;
+    box-sizing: border-box;
+    color: white;
+
+}
