@@ -17,8 +17,8 @@ This repository contains a collection of beginner-friendly JavaScript projects t
 ## 🏗️ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/basic-js-projects.git
-cd basic-js-projects
+git clone https://github.com/your-username/js-projects.git
+cd js-projects
 ```
 ### 2️⃣ Open the Project
 Simply open the `.html` files in a web browser.
